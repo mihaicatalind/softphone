@@ -1,4 +1,4 @@
-# Softphone
+a# Softphone
 A python 3 compatible softphone built on the [pjproject fork by malarinv, branch:py37](https://github.com/DiscordPhone/pjproject/tree/py37).
 
 To use the streaming capability, use an Audio Callback class that suits your needs. 
@@ -16,7 +16,7 @@ For installation instructions, click [here](INSTALL.md).
 - [x] Add proper logging.
 - [ ] Add DTMF support.
 - [ ] Add call transfer support.
-- [ ] Fix and test incoming calls.
+- [x] Fix and test incoming calls.
 - [ ] Do not force registration of both incoming and outgoing accounts. Make it optional.
 - [ ] Fix better error handling.
 - [ ] Fix error when phone hangs up before softphone does.
